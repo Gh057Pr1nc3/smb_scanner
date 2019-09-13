@@ -1,6 +1,4 @@
 PS C:\Users\user\Desktop> .\scanner.exe -h
-WannaCry scanner tool by BiZone
-
 Usage of C:\Users\user\Desktop\scanner.exe:
   -file string
         File with list of targets to scan. Each address or netmask on new line.
